@@ -38,6 +38,10 @@ span.emoji {
   color: #aaaaaa;
 }
 
+.green {
+  color: #61CE70;
+}
+
 .counter-box {
   display: block;
   /* background: #f6f6f6; */
