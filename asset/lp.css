@@ -1,0 +1,74 @@
+span.emoji {
+  font-size: 30px;
+  vertical-align: middle;
+  line-height: 2;
+}
+
+.elementor-shape-fill {
+  fill: #fff;
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg)
+}
+
+.elementor-shape-fill-2 {
+  fill: #ffffff !important;
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+
+.fa-check-circle {
+  color: #20BD1D;
+}
+
+.bg-green {
+  background-color: #61CE70;
+}
+
+.bg-grey {
+  background-color: #aaaaaa;
+}
+
+.grey {
+  color: #aaaaaa;
+}
+
+.counter-box {
+  display: block;
+  /* background: #f6f6f6; */
+  text-align: center
+}
+
+.counter-box p {
+  /* color: #909090; */
+  font-size: 18px;
+  font-weight: 500
+}
+
+.counter-box i {
+  font-size: 60px;
+  /* color: #d2d2d2 */
+}
+
+.counter {
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
+  color: #666;
+  /* line-height: 28px */
+}
+
+.counter-box.colored {
+  /* background: #3acf87; */
+}
+
+.counter-box.colored p,
+.counter-box.colored i,
+.counter-box.colored .counter {
+  color: #fff
+}
